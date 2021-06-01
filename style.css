@@ -1,0 +1,48 @@
+*{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    width: 1200px;
+    height: 60px;
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+h2{
+    width: 300px;
+    background-color: burlywood;
+    border: rgb(5, 4, 68) 8px groove;
+    color: blue;
+    text-align: center;
+}
+.fl{
+    float: left;
+    width: 500px;
+    height: 250px;
+    margin-left: 20px;
+}
+.fl2{
+    float: right;
+    width: 500px;
+    height: 250px;
+    margin-right: 20px;
+}
+pre{
+    font-family: serif;
+    font-size: 18px;
+}
+.link{
+    color: bisque;
+    margin-left: 50px;
+}
+div.reset {
+    clear: both;
+} 
+html{
+    background-image: url(https://image.freepik.com/vector-gratis/fondo-pintura-acuarela-rosa-vibrante_53876-58930.jpg);
+}
